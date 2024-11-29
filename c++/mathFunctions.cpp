@@ -9,8 +9,8 @@ int main(){
 
     z = std::max(x, y); //returns the largest value
     z = std::min(x, y); //returns the smallest value
-    z = pow (2, 3) //2^3
-    z = sqrt(9) //root of 9
+    z = pow (2, 3); //2^3
+    z = sqrt(9); //root of 9
     z = abs(-3); //absolute value (absolute value is difference from 0 = 3)
     z = round(x); //regular rounding
     z = ceil(x); //allways rounds up

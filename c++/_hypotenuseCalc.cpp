@@ -8,10 +8,10 @@ int main(){
     double b;
     double c;
 
-    std::cout << "Enter side A: "
+    std::cout << "Enter side A: ";
     std::cin >> a;
 
-    std::cout << "enter side B: "
+    std::cout << "enter side B: ";
     std::cin >> b;
 
     c = sqrt(pow(a, 2) + pow(b, 2));

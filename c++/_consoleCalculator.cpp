@@ -16,7 +16,7 @@ int main(){
     std::cin >> num1;
 
     std::cout << "Enter #2: ";
-    std::cin >> num1;
+    std::cin >> num2;
 
     switch(op){
         case '+':
